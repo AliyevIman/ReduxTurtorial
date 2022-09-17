@@ -1,0 +1,37 @@
+﻿@model Section1
+
+@{
+    int count = 0;
+}
+@*@foreach(var item in Model){
+    count ++;
+
+    };*@
+
+<div class="table-responsive">
+    <table id="default-datatable" class="display table table-striped table-bordered">
+        <thead>
+        <thead>
+            <tr>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td> @Model.Header</td>
+                <td>@Model.Description</td>
+                <td>@Model.SubHeader</td>
+                <td>@Model.Title</td>
+
+
+            </tr>
+
+    </table>
+</div>
+<a  asp-controller="Section1" asp-action="Create"> create</a>
+<a   asp-controller="Section1" asp-action="Edit"> edit</a>
+<a asp-controller="Section1" asp-action="Delete">Delete</a>

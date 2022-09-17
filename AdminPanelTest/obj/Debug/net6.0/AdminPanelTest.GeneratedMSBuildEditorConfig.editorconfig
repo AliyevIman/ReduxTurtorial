@@ -1,0 +1,80 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AdminPanelTest
+build_property.RootNamespace = AdminPanelTest
+build_property.ProjectDir = C:\Users\Iman\Desktop\AdminPanelTest\AdminPanelTest\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Iman\Desktop\AdminPanelTest\AdminPanelTest
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Iman/Desktop/AdminPanelTest/AdminPanelTest/Areas/AdminTest/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5UZXN0XFZpZXdzXERhc2hib2FyZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iman/Desktop/AdminPanelTest/AdminPanelTest/Areas/AdminTest/Views/Section1/Back.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5UZXN0XFZpZXdzXFNlY3Rpb24xXEJhY2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iman/Desktop/AdminPanelTest/AdminPanelTest/Areas/AdminTest/Views/Section1/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5UZXN0XFZpZXdzXFNlY3Rpb24xXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iman/Desktop/AdminPanelTest/AdminPanelTest/Areas/AdminTest/Views/Section1/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5UZXN0XFZpZXdzXFNlY3Rpb24xXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iman/Desktop/AdminPanelTest/AdminPanelTest/Areas/AdminTest/Views/Section1/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5UZXN0XFZpZXdzXFNlY3Rpb24xXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iman/Desktop/AdminPanelTest/AdminPanelTest/Areas/AdminTest/Views/Section1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5UZXN0XFZpZXdzXFNlY3Rpb24xXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iman/Desktop/AdminPanelTest/AdminPanelTest/Areas/AdminTest/Views/shared/_Layoutadmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5UZXN0XFZpZXdzXHNoYXJlZFxfTGF5b3V0YWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iman/Desktop/AdminPanelTest/AdminPanelTest/Areas/AdminTest/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5UZXN0XFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iman/Desktop/AdminPanelTest/AdminPanelTest/Areas/AdminTest/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5UZXN0XFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iman/Desktop/AdminPanelTest/AdminPanelTest/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iman/Desktop/AdminPanelTest/AdminPanelTest/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iman/Desktop/AdminPanelTest/AdminPanelTest/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iman/Desktop/AdminPanelTest/AdminPanelTest/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iman/Desktop/AdminPanelTest/AdminPanelTest/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iman/Desktop/AdminPanelTest/AdminPanelTest/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Iman/Desktop/AdminPanelTest/AdminPanelTest/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-xb0w8okt80
